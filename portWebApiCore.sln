@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "portWebApiCore", "portWebApiCore\portWebApiCore.csproj", "{A7CFE284-D0B4-4281-BD2F-8B6C7EDBFA22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7CFE284-D0B4-4281-BD2F-8B6C7EDBFA22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7CFE284-D0B4-4281-BD2F-8B6C7EDBFA22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7CFE284-D0B4-4281-BD2F-8B6C7EDBFA22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7CFE284-D0B4-4281-BD2F-8B6C7EDBFA22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {160CF4FF-3FC3-41B7-BE83-C9BAA62404E9}
+	EndGlobalSection
+EndGlobal
